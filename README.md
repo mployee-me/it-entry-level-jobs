@@ -112,10 +112,10 @@ color : white;
 </td>
 <td align="center" width="25%">
 <a href="#-business-analyst">
-<img src="https://img.shields.io/badge/💼_Business_Analyst-562_Jobs-blue?style=for-the-badge" alt="Business Analyst">
+<img src="https://img.shields.io/badge/💼_Business_Analyst-616_Jobs-blue?style=for-the-badge" alt="Business Analyst">
 </a>
 <br>
-<sub><b>562</b> total positions</sub>
+<sub><b>616</b> total positions</sub>
 </td>
 <td align="center" width="25%">
 <a href="#-product-manager">
@@ -126,10 +126,10 @@ color : white;
 </td>
 <td align="center" width="25%">
 <a href="#-full-stack-developer">
-<img src="https://img.shields.io/badge/💻_Full_Stack_Developer-624_Jobs-blue?style=for-the-badge" alt="Full Stack Developer">
+<img src="https://img.shields.io/badge/💻_Full_Stack_Developer-705_Jobs-blue?style=for-the-badge" alt="Full Stack Developer">
 </a>
 <br>
-<sub><b>624</b> total positions</sub>
+<sub><b>705</b> total positions</sub>
 </td>
 </tr>
 </table>
@@ -155,18 +155,25 @@ color : white;
 </thead>
 <tbody>
 <tr>
+<td><a href="https://www.linkedin.com/company/google">Google</a></td>
+<td>Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start</td>
+<td>📍 Atlanta, GA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-google-4456872374/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/digitas-north-america">Digitas North America</a></td>
+<td>Lead Data Scientist</td>
+<td>📍 Atlanta, GA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-digitas-north-america-4419347115/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/oxosmedical">OXOS Medical</a></td>
 <td>Machine Learning Engineer</td>
 <td>📍 Atlanta, GA</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-oxos-medical-4466098994/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/mckinsey">McKinsey & Company</a></td>
-<td>Senior Data Engineer - Life Sciences.AI</td>
-<td>📍 Atlanta, GA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-mckinsey-company-4467216820/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/ztek-inc">Ztek Consulting</a></td>
@@ -183,11 +190,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-the-coca-cola-company-4458154061/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/digitas-north-america">Digitas North America</a></td>
-<td>Lead Data Scientist</td>
+<td><a href="https://www.linkedin.com/company/exl-service">EXL</a></td>
+<td>Senior Data AI Developer</td>
 <td>📍 Atlanta, GA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-digitas-north-america-4419347115/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-exl-4465700721/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/crea-llc">CREA, LLC</a></td>
@@ -197,18 +204,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-crea-llc-4455305666/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/google">Google</a></td>
-<td>Software Engineer, AI/Machine Learning, PhD, Early Career, 2027 Start</td>
+<td><a href="https://www.linkedin.com/company/mckinsey">McKinsey & Company</a></td>
+<td>Senior Data Engineer - Life Sciences.AI</td>
 <td>📍 Atlanta, GA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-google-4456872374/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/exl-service">EXL</a></td>
-<td>Senior Data AI Developer</td>
-<td>📍 Atlanta, GA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-exl-4465700721/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-mckinsey-company-4467216820/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/king-and-spalding">King & Spalding</a></td>
@@ -218,6 +218,13 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-king-spalding-4460621268/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/velir">Velir</a></td>
+<td>Senior Manager, Data Strategy</td>
+<td>📍 Boston, MA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-velir-4467096851/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/google">Google</a></td>
 <td>Business Data Analyst, Procurement</td>
 <td>📍 Chicago, IL</td>
@@ -225,11 +232,39 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-google-4466100150/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/velir">Velir</a></td>
-<td>Senior Manager, Data Strategy</td>
+<td><a href="https://www.linkedin.com/company/google">Google</a></td>
+<td>GTM Commercial Programs Lead, Data Practice, Google Cloud</td>
+<td>📍 Chicago, IL</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-google-4456844807/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://ie.linkedin.com/company/accenture">Accenture</a></td>
+<td>Data Risk Manager</td>
+<td>📍 Chicago, IL</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-accenture-4465487974/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/suffolk-construction">Suffolk Construction</a></td>
+<td>Assistant Preconstruction Manager, Data Centers</td>
 <td>📍 Boston, MA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-velir-4467096851/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-suffolk-construction-4458213778/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/mckinsey">McKinsey & Company</a></td>
+<td>Senior Data Scientist - Life Sciences.AI</td>
+<td>📍 Boston, MA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-mckinsey-company-4467208878/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/northwestern-medicine">Northwestern Medicine</a></td>
+<td>Perinatal Data Specialist- Full Time Days</td>
+<td>📍 Chicago, IL</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-northwestern-medicine-4464799690/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/chia-careers">The Center for Health Information and Analysis</a></td>
@@ -240,24 +275,10 @@ color : white;
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/suffolk-construction">Suffolk Construction</a></td>
-<td>Assistant Preconstruction Manager, Data Centers</td>
+<td>Estimator, Data Centers</td>
 <td>📍 Boston, MA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-suffolk-construction-4458213778/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ie.linkedin.com/company/accenture">Accenture</a></td>
-<td>Data Risk Manager</td>
-<td>📍 Chicago, IL</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-accenture-4465487974/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/mckinsey">McKinsey & Company</a></td>
-<td>Senior Data Scientist - Life Sciences.AI</td>
-<td>📍 Boston, MA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-mckinsey-company-4467208878/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-suffolk-construction-4458213741/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://be.linkedin.com/company/havi-logistics-belgium">HAVI Belgium</a></td>
@@ -267,32 +288,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-havi-belgium-4465702869/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/suffolk-construction">Suffolk Construction</a></td>
-<td>Estimator, Data Centers</td>
-<td>📍 Boston, MA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-suffolk-construction-4458213741/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/google">Google</a></td>
-<td>GTM Commercial Programs Lead, Data Practice, Google Cloud</td>
-<td>📍 Chicago, IL</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-google-4456844807/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/northwestern-medicine">Northwestern Medicine</a></td>
-<td>Perinatal Data Specialist- Full Time Days</td>
-<td>📍 Chicago, IL</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-northwestern-medicine-4464799690/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/safelite">Safelite</a></td>
-<td>Senior Business Intelligence Engineering and Data Manager</td>
+<td><a href="https://www.linkedin.com/company/purple-drive">Purple Drive Technologies</a></td>
+<td>Data Analyst - Logistics and Freight</td>
 <td>📍 Columbus, OH</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-safelite-4454115486/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-purple-drive-technologies-4465782327/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://ie.linkedin.com/company/accenture">Accenture</a></td>
@@ -302,6 +302,13 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-accenture-4466102212/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/amazon-web-services">Amazon Web Services (AWS)</a></td>
+<td>Infrastructure TPM, Data Center Delivery, Infrastructure Delivery</td>
+<td>📍 Columbus, OH</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-amazon-web-services-aws-4466783960/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/purple-drive">Purple Drive Technologies</a></td>
 <td>Solution Architect - Data & AI (Utility Domain - Electric, Gas, Oil)</td>
 <td>📍 Columbus, OH</td>
@@ -309,11 +316,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-purple-drive-technologies-4465765849/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/technology-recruiting-solutionsinc">Technology Recruiting Solutions</a></td>
-<td>Senior Data Engineer-Azure/Databricks</td>
-<td>📍 Houston, TX</td>
+<td><a href="https://www.linkedin.com/company/safelite">Safelite</a></td>
+<td>Senior Business Intelligence Engineering and Data Manager</td>
+<td>📍 Columbus, OH</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-technology-recruiting-solutions-4467229121/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-safelite-4454115486/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/kbr-careers">KBR Careers</a></td>
@@ -323,18 +330,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-kbr-careers-4467029591/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/operation-technology-inc-">ETAP Software</a></td>
-<td>Senior Power Automation Engineer - Data Center</td>
+<td><a href="https://www.linkedin.com/company/exatech-inc">ExaTech Inc</a></td>
+<td>Sr. Data Scientist</td>
 <td>📍 Houston, TX</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-etap-software-4467091712/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/purple-drive">Purple Drive Technologies</a></td>
-<td>Data Analyst - Logistics and Freight</td>
-<td>📍 Columbus, OH</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-purple-drive-technologies-4465782327/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-exatech-inc-4467200147/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/koch-energy-services-llc">Koch Energy Services, LLC</a></td>
@@ -344,18 +344,25 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-koch-energy-services-llc-4464780429/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/exatech-inc">ExaTech Inc</a></td>
-<td>Sr. Data Scientist</td>
+<td><a href="https://www.linkedin.com/company/operation-technology-inc-">ETAP Software</a></td>
+<td>Senior Power Automation Engineer - Data Center</td>
 <td>📍 Houston, TX</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-exatech-inc-4467200147/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-etap-software-4467091712/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/amazon-web-services">Amazon Web Services (AWS)</a></td>
-<td>Infrastructure TPM, Data Center Delivery, Infrastructure Delivery</td>
-<td>📍 Columbus, OH</td>
+<td><a href="https://www.linkedin.com/company/technology-recruiting-solutionsinc">Technology Recruiting Solutions</a></td>
+<td>Senior Data Engineer-Azure/Databricks</td>
+<td>📍 Houston, TX</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-amazon-web-services-aws-4466783960/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-technology-recruiting-solutions-4467229121/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/takkt-foodservices">TAKKT Foodservices</a></td>
+<td>Merchandising Data Specialist</td>
+<td>📍 Indianapolis, IN</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-takkt-foodservices-4467041843/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/the-boldt-company">The Boldt Company</a></td>
@@ -372,13 +379,6 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-jobot-4464780914/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/takkt-foodservices">TAKKT Foodservices</a></td>
-<td>Merchandising Data Specialist</td>
-<td>📍 Indianapolis, IN</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-takkt-foodservices-4467041843/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a href="https://www.linkedin.com/company/meta">Meta</a></td>
 <td>Construction Manager - Data Center Design, Engineering, & Construction</td>
 <td>📍 Kansas City, MO</td>
@@ -386,25 +386,18 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-meta-4297450511/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/sezzle">Sezzle</a></td>
-<td>Sr Fraud Data Analyst, P2P & Cash Advance</td>
-<td>📍 Minneapolis, MN</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-sezzle-4420236283/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ie.linkedin.com/company/accenture">Accenture</a></td>
-<td>Data Management and Governance Specialist</td>
-<td>📍 Minneapolis, MN</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-accenture-4465489918/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a href="https://www.linkedin.com/company/base-2solutions">Base-2 Solutions</a></td>
 <td>Data Lake Engineer</td>
 <td>📍 Miami, FL</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-base-2-solutions-4465718585/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/sezzle">Sezzle</a></td>
+<td>Sr Fraud Data Analyst, P2P & Cash Advance</td>
+<td>📍 Minneapolis, MN</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-sezzle-4420236283/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/base-2solutions">Base-2 Solutions</a></td>
@@ -421,39 +414,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-selby-jennings-4467090926/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/gray">Gray</a></td>
-<td>MEP Unit Manager - Data Center Market</td>
-<td>📍 Phoenix, AZ</td>
+<td><a href="https://ie.linkedin.com/company/accenture">Accenture</a></td>
+<td>Data Management and Governance Specialist</td>
+<td>📍 Minneapolis, MN</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-gray-4281355756/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/paychex">Paychex</a></td>
-<td>GTM Data Analyst I</td>
-<td>📍 Phoenix, AZ</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-paychex-4465220401/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://nl.linkedin.com/company/elsevier">Elsevier</a></td>
-<td>Manager of Data Science</td>
-<td>📍 Philadelphia, PA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-elsevier-4465770971/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/emonics">Emonics LLC</a></td>
-<td>Machine Learning Engineer</td>
-<td>📍 Philadelphia, PA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-emonics-llc-4465797150/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/objectways">Objectways</a></td>
-<td>Java-Python-Senior Engineer</td>
-<td>📍 Phoenix, AZ</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-objectways-4464795487/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-accenture-4465489918/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://ch.linkedin.com/company/chubb">Chubb</a></td>
@@ -463,25 +428,25 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-chubb-4465230846/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/insight-global">Insight Global</a></td>
-<td>Business Data Governance Analyst</td>
-<td>📍 Phoenix, AZ</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-insight-global-4466107014/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/intepros">IntePros</a></td>
-<td>Healthcare Data Analyst</td>
+<td><a href="https://nl.linkedin.com/company/elsevier">Elsevier</a></td>
+<td>Manager of Data Science</td>
 <td>📍 Philadelphia, PA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-intepros-4467098956/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-elsevier-4465770971/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/myriad360">Myriad360</a></td>
-<td>Data Center Field Superintendent</td>
+<td><a href="https://www.linkedin.com/company/objectways">Objectways</a></td>
+<td>Java-Python-Senior Engineer</td>
 <td>📍 Phoenix, AZ</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-myriad360-4467217205/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-objectways-4464795487/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/emonics">Emonics LLC</a></td>
+<td>Machine Learning Engineer</td>
+<td>📍 Philadelphia, PA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-emonics-llc-4465797150/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://nl.linkedin.com/company/elsevier">Elsevier</a></td>
@@ -491,6 +456,13 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-elsevier-4465764929/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/insight-global">Insight Global</a></td>
+<td>Business Data Governance Analyst</td>
+<td>📍 Phoenix, AZ</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-insight-global-4466107014/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://nl.linkedin.com/company/elsevier">Elsevier</a></td>
 <td>Sr Data Scientist</td>
 <td>📍 Philadelphia, PA</td>
@@ -498,18 +470,46 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-elsevier-4465788000/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/eli-lilly-and-company">Eli Lilly and Company</a></td>
-<td>Advisor - Data Architect, Data Foundry</td>
-<td>📍 San Francisco, CA</td>
+<td><a href="https://www.linkedin.com/company/myriad360">Myriad360</a></td>
+<td>Data Center Field Superintendent</td>
+<td>📍 Phoenix, AZ</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-eli-lilly-and-company-4387465794/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-myriad360-4467217205/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/school/university-of-utah/">University of Utah</a></td>
-<td>Privacy / Data Protection Analyst, III</td>
-<td>📍 Salt Lake City, UT</td>
+<td><a href="https://www.linkedin.com/company/intepros">IntePros</a></td>
+<td>Healthcare Data Analyst</td>
+<td>📍 Philadelphia, PA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-university-of-utah-4465486803/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-intepros-4467098956/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/paychex">Paychex</a></td>
+<td>GTM Data Analyst I</td>
+<td>📍 Phoenix, AZ</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-paychex-4465220401/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/gray">Gray</a></td>
+<td>MEP Unit Manager - Data Center Market</td>
+<td>📍 Phoenix, AZ</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-gray-4281355756/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/flexport">Flexport</a></td>
+<td>Head of Data Center Logistics Practice</td>
+<td>📍 San Francisco, CA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-flexport-4436529006/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/careerpuck">Puck</a></td>
+<td>Data Analyst Intern</td>
+<td>📍 San Francisco, CA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-puck-4465203715/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/meta">Meta</a></td>
@@ -517,13 +517,6 @@ color : white;
 <td>📍 San Francisco, CA</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-meta-4428523505/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/meta">Meta</a></td>
-<td>Equipment and Inventory Planner, Data Center Construction</td>
-<td>📍 San Francisco, CA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-meta-4436675163/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/anthropicresearch">Anthropic</a></td>
@@ -540,11 +533,25 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-jacobs-4411665114/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/flexport">Flexport</a></td>
-<td>Head of Data Center Logistics Practice</td>
+<td><a href="https://www.linkedin.com/company/meta">Meta</a></td>
+<td>Equipment and Inventory Planner, Data Center Construction</td>
 <td>📍 San Francisco, CA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-flexport-4436529006/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-meta-4436675163/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/school/university-of-utah/">University of Utah</a></td>
+<td>Privacy / Data Protection Analyst, III</td>
+<td>📍 Salt Lake City, UT</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-university-of-utah-4465486803/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/eli-lilly-and-company">Eli Lilly and Company</a></td>
+<td>Advisor - Data Architect, Data Foundry</td>
+<td>📍 San Francisco, CA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-eli-lilly-and-company-4387465794/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/school/university-of-utah/">University of Utah</a></td>
@@ -554,27 +561,6 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-university-of-utah-4465499749/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/careerpuck">Puck</a></td>
-<td>Data Analyst Intern</td>
-<td>📍 San Francisco, CA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-puck-4465203715/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/the-world-bank-group">The World Bank Group</a></td>
-<td>E T Consultant - Data Scientist - req38313</td>
-<td>📍 Washington, DC</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-the-world-bank-group-4467073860/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/turingcom">Turing</a></td>
-<td>Forward Deployed Engineer — Data Engineering & GenAI</td>
-<td>📍 Washington, DC</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-turing-4465713642/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a href="https://uk.linkedin.com/company/lviassociates">LVI Associates</a></td>
 <td>Site Selection and Power Development Lead - Data Centers</td>
 <td>📍 Washington, DC</td>
@@ -582,11 +568,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-lvi-associates-4467244023/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/parallaxadvancedresearch">Parallax Advanced Research</a></td>
-<td>Senior AI Scientist</td>
+<td><a href="https://www.linkedin.com/company/the-world-bank-group">The World Bank Group</a></td>
+<td>E T Consultant - Data Scientist - req38313</td>
 <td>📍 Washington, DC</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-parallax-advanced-research-4465224422/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-the-world-bank-group-4467073860/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/esri">Esri</a></td>
@@ -603,11 +589,18 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-parsons-corporation-4467219997/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/teksystems">TEKsystems</a></td>
-<td>Data Center Field Engineer - Travel Team</td>
-<td>📍 Atlanta, GA</td>
+<td><a href="https://www.linkedin.com/company/turingcom">Turing</a></td>
+<td>Forward Deployed Engineer — Data Engineering & GenAI</td>
+<td>📍 Washington, DC</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-teksystems-4466750980/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-turing-4465713642/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/parallaxadvancedresearch">Parallax Advanced Research</a></td>
+<td>Senior AI Scientist</td>
+<td>📍 Washington, DC</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-parallax-advanced-research-4465224422/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/brasfield-&-gorrie-llc">Brasfield & Gorrie, LLC</a></td>
@@ -617,11 +610,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-brasfield-gorrie-llc-4361942508/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/reserv-ai">Reserv</a></td>
-<td>Sr. Data Analyst - Transport</td>
+<td><a href="https://www.linkedin.com/company/teksystems">TEKsystems</a></td>
+<td>Data Center Field Engineer - Travel Team</td>
 <td>📍 Atlanta, GA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-reserv-4430023470/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-teksystems-4466750980/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://fr.linkedin.com/company/capgemini">Capgemini</a></td>
@@ -629,6 +622,13 @@ color : white;
 <td>📍 Atlanta, GA</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-capgemini-4459205589/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/reserv-ai">Reserv</a></td>
+<td>Sr. Data Analyst - Transport</td>
+<td>📍 Atlanta, GA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-reserv-4430023470/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/stripe">Stripe</a></td>
@@ -652,13 +652,6 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-epsilon-4428200838/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/icemarkets">ICE</a></td>
-<td>Technician, Data Center Operations</td>
-<td>📍 Chicago, IL</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-ice-4430717379/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a href="https://www.linkedin.com/company/safelite">Safelite</a></td>
 <td>AVP, Data Engineering and AI Innovation</td>
 <td>📍 Columbus, OH</td>
@@ -671,6 +664,13 @@ color : white;
 <td>📍 Houston, TX</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-rsm-us-llp-4429311720/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/icemarkets">ICE</a></td>
+<td>Technician, Data Center Operations</td>
+<td>📍 Chicago, IL</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-ice-4430717379/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/rockwell-automation">Rockwell Automation</a></td>
@@ -701,53 +701,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-slb-4443467823/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/oracle">Oracle</a></td>
-<td>Tooling Manager, Data Center Site Deployment</td>
-<td>📍 Nashville, TN</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-oracle-4435996961/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/wearehaystack">Haystack</a></td>
-<td>Senior Data Scientist</td>
-<td>📍 Nashville, TN</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-haystack-4465466655/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/starbucks">Starbucks</a></td>
-<td>Senior/Lead Data Scientist, Data & Analytics (Nashville, TN)</td>
-<td>📍 Nashville, TN</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-starbucks-4411473327/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/oracle">Oracle</a></td>
-<td>Senior Manager, Data Center Commissioning & Validation</td>
-<td>📍 Nashville, TN</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-oracle-4436604862/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a href="https://www.linkedin.com/company/deloitte">Deloitte</a></td>
 <td>Cyber Data Protection/PKI Manager</td>
 <td>📍 Nashville, TN</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-deloitte-4420946163/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/jpmorganchase">JPMorganChase</a></td>
-<td>Regulatory External Data Services Product Delivery Senior Associate</td>
-<td>📍 Wilmington, CA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-jpmorganchase-4438827481/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/starbucks">Starbucks</a></td>
-<td>data scientist, Data & Analytics (Nashville, TN)</td>
-<td>📍 Nashville, TN</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-starbucks-4411473326/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/vanderbilt-university-medical-center">Vanderbilt University Medical Center</a></td>
@@ -757,11 +715,46 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-vanderbilt-university-medical-center-4464737048/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/jacobs">Jacobs</a></td>
-<td>Digital Delivery (VDC/BIM) Program Lead (Data Centers)</td>
-<td>📍 Portland, OR</td>
+<td><a href="https://www.linkedin.com/company/starbucks">Starbucks</a></td>
+<td>Senior/Lead Data Scientist, Data & Analytics (Nashville, TN)</td>
+<td>📍 Nashville, TN</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-jacobs-4410957914/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-starbucks-4411473327/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/jpmorganchase">JPMorganChase</a></td>
+<td>Regulatory External Data Services Product Delivery Senior Associate</td>
+<td>📍 Wilmington, CA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-jpmorganchase-4438827481/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://uk.linkedin.com/company/wearehaystack">Haystack</a></td>
+<td>Senior Data Scientist</td>
+<td>📍 Nashville, TN</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-haystack-4465466655/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/oracle">Oracle</a></td>
+<td>Senior Manager, Data Center Commissioning & Validation</td>
+<td>📍 Nashville, TN</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-oracle-4436604862/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/starbucks">Starbucks</a></td>
+<td>data scientist, Data & Analytics (Nashville, TN)</td>
+<td>📍 Nashville, TN</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-starbucks-4411473326/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/oracle">Oracle</a></td>
+<td>Tooling Manager, Data Center Site Deployment</td>
+<td>📍 Nashville, TN</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-oracle-4435996961/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/qcells-northamerica">Qcells North America</a></td>
@@ -771,11 +764,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-qcells-north-america-4465465705/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/vertiv">Vertiv</a></td>
-<td>Cooling Customer Engineer-Data Center Thermal Technician</td>
-<td>📍 Phoenix, AZ</td>
+<td><a href="https://www.linkedin.com/company/jacobs">Jacobs</a></td>
+<td>Digital Delivery (VDC/BIM) Program Lead (Data Centers)</td>
+<td>📍 Portland, OR</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-vertiv-4383365224/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-jacobs-4410957914/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/careoregon">CareOregon</a></td>
@@ -792,6 +785,13 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-icapital-4447700560/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/vertiv">Vertiv</a></td>
+<td>Cooling Customer Engineer-Data Center Thermal Technician</td>
+<td>📍 Phoenix, AZ</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-vertiv-4383365224/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/salesforce">Salesforce</a></td>
 <td>Software Engineer, Data & Observability Platforms — MTS/SMTS</td>
 <td>📍 San Francisco, CA</td>
@@ -806,13 +806,6 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-galapagos-federal-systems-4465468694/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/salesforce">Salesforce</a></td>
-<td>SMB Account Executive – Data Foundation (MuleSoft + Informatica) AE or Informatica Specialist AE (San Francisco)</td>
-<td>📍 San Francisco, CA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-salesforce-4430783189/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a href="https://www.linkedin.com/company/scribdinc.">Scribd, Inc.</a></td>
 <td>Data Scientist II</td>
 <td>📍 San Francisco, CA</td>
@@ -820,11 +813,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-scribd-inc-4438362248/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/chick-fil-a-corporate">Chick-fil-A Corporate Support Center</a></td>
-<td>Sr. Lead Data Engineer, Field Insights & Technology</td>
-<td>📍 Atlanta, GA</td>
+<td><a href="https://www.linkedin.com/company/salesforce">Salesforce</a></td>
+<td>SMB Account Executive – Data Foundation (MuleSoft + Informatica) AE or Informatica Specialist AE (San Francisco)</td>
+<td>📍 San Francisco, CA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-chick-fil-a-corporate-support-center-4456289869/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-salesforce-4430783189/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/deloitte">Deloitte</a></td>
@@ -834,13 +827,6 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-deloitte-4429937252/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/warner-bros-discovery">Warner Bros. Discovery</a></td>
-<td>Sr. Principal Data Scientist (Agentic AI)</td>
-<td>📍 Atlanta, GA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-warner-bros-discovery-4430746918/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a href="https://www.linkedin.com/company/experientconsulting">Experient</a></td>
 <td>Python Engineer</td>
 <td>📍 Atlanta, GA</td>
@@ -848,11 +834,25 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-experient-4446777996/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/jacobs">Jacobs</a></td>
-<td>Senior Transportation Data Analyst (Part-Time)</td>
+<td><a href="https://www.linkedin.com/company/chick-fil-a-corporate">Chick-fil-A Corporate Support Center</a></td>
+<td>Sr. Lead Data Engineer, Field Insights & Technology</td>
 <td>📍 Atlanta, GA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-jacobs-4447218130/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-chick-fil-a-corporate-support-center-4456289869/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/waystar">Waystar</a></td>
+<td>Senior Data Engineer</td>
+<td>📍 Atlanta, GA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-waystar-4457305834/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/warner-bros-discovery">Warner Bros. Discovery</a></td>
+<td>Sr. Principal Data Scientist (Agentic AI)</td>
+<td>📍 Atlanta, GA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/data-scientist-jobs-in-wilmington_ca-at-warner-bros-discovery-4430746918/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr><td colspan="5" align="center"><i>... and 900 more positions</i></td></tr>
 </tbody>
@@ -863,7 +863,7 @@ color : white;
 ## 💼 Business Analyst
 <a name="-business-analyst"></a>
 
-> 💼 **562** positions available
+> 💼 **616** positions available
 
 <table>
 <thead>
@@ -1433,150 +1433,150 @@ color : white;
 <td><a href="https://www.linkedin.com/company/programmers-io">Programmers.io</a></td>
 <td>IAM Business Analyst</td>
 <td>📍 Washington, DC</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-programmersio-4463865812/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/wayfair">Wayfair</a></td>
 <td>Senior Business Analyst, Customer Journey Optimization</td>
 <td>📍 Boston, MA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-wayfair-4463080447/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/the-home-depot">The Home Depot</a></td>
 <td>Sr Business Analyst Services</td>
 <td>📍 Atlanta, GA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-the-home-depot-4462635077/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/mercedes-benz-usa">Mercedes-Benz USA</a></td>
 <td>Principal, Business Intelligence</td>
 <td>📍 Atlanta, GA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-mercedes-benz-usa-4465344076/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/transcarent">Transcarent</a></td>
 <td>Business Intelligence Developer II</td>
 <td>📍 Chicago, IL</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-transcarent-4464130264/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/fidelity-investments">Fidelity Investments</a></td>
 <td>Private Markets Business Analyst - Alternative Investments</td>
 <td>📍 Boston, MA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-fidelity-investments-4465309000/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/enexusglobal">Enexus Global Inc.</a></td>
 <td>BA/Product owner- Wealth Management</td>
 <td>📍 Boston, MA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-enexus-global-inc-4464154214/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/publicis-health-media">Publicis Health Media</a></td>
 <td>Associate Director, Business Intelligence</td>
 <td>📍 Chicago, IL</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-publicis-health-media-4428407177/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/icemarkets">ICE</a></td>
 <td>Senior Business Analyst, Product Development</td>
 <td>📍 Atlanta, GA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-ice-4464925579/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/amazon">Amazon</a></td>
 <td>Business Analyst III - AMZ27093.1</td>
 <td>📍 Atlanta, GA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-amazon-4455796107/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/builders-insurance-built-strong">Builders</a></td>
 <td>Business Analyst Claims Center</td>
 <td>📍 Atlanta, GA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-builders-4458907610/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/mfs-investment-management">MFS Investment Management</a></td>
 <td>Business Intelligence Consultant</td>
 <td>📍 Boston, MA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-mfs-investment-management-4465301104/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/fairsquare-inc">FairSquare</a></td>
 <td>Senior Business Intelligence Analyst</td>
 <td>📍 Atlanta, GA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-fairsquare-4463803301/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/whoop">WHOOP</a></td>
 <td>Business Analyst I (Growth Marketing)</td>
 <td>📍 Boston, MA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-whoop-4446343924/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/cbes-us">City Building Engineering Services (CBES-US)</a></td>
 <td>Vendor Management Business Analyst</td>
 <td>📍 Boston, MA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-city-building-engineering-services-cbes-us-4456044254/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/tcc">TCC Solutions</a></td>
 <td>Manager, Business Analyst (35593)</td>
 <td>📍 Indianapolis, IN</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-tcc-solutions-4465370009/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/quanta-services">Quanta Services, Inc.</a></td>
 <td>Senior Business Analyst – JD Edwards Projects, Contract & Service Billing</td>
 <td>📍 Houston, TX</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-quanta-services-inc-4465331615/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/crane-worldwide-logistics_2">Crane Worldwide Logistics</a></td>
 <td>Senior Business Intelligence Engineer</td>
 <td>📍 Houston, TX</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-crane-worldwide-logistics-4463093081/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/supernova-companies">Supernova Technology™</a></td>
 <td>Business Analyst</td>
 <td>📍 Chicago, IL</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-supernova-technology-4465096187/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/nationwide">Nationwide</a></td>
 <td>Associate, Business Analytics - Financial Services</td>
 <td>📍 Columbus, OH</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-nationwide-4463035385/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/dairy-farmers-of-america">Dairy Farmers of America</a></td>
 <td>SAP Business Analyst III - Procure to Pay</td>
 <td>📍 Kansas City, MO</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/business-analyst-jobs-in-wilmington_ca-at-dairy-farmers-of-america-4465349250/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
-<tr><td colspan="5" align="center"><i>... and 462 more positions</i></td></tr>
+<tr><td colspan="5" align="center"><i>... and 516 more positions</i></td></tr>
 </tbody>
 </table>
 
@@ -1599,53 +1599,11 @@ color : white;
 </thead>
 <tbody>
 <tr>
-<td><a href="https://www.linkedin.com/company/micron-technology">Micron Technology</a></td>
-<td>SMTS Product Architect</td>
-<td>📍 Boise, ID</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-micron-technology-4410835517/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/prestige-staffing">Prestige Staffing</a></td>
-<td>Product Owner</td>
-<td>📍 Atlanta, GA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-prestige-staffing-4465205957/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/micron-technology">Micron Technology</a></td>
-<td>Principal Product Architect</td>
-<td>📍 Boise, ID</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-micron-technology-4410844183/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/analog-devices">Analog Devices</a></td>
-<td>Product Engineer (Product Development) Intern</td>
-<td>📍 Wilmington, CA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-analog-devices-4455875052/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/teradar">Teradar</a></td>
-<td>Senior Product Test Engineer</td>
-<td>📍 Boston, MA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-teradar-4461735742/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a href="https://www.linkedin.com/company/georgia-tech-research-institute">Georgia Tech Research Institute</a></td>
 <td>Product Strategist -ICL</td>
 <td>📍 Atlanta, GA</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-georgia-tech-research-institute-4467205186/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://uk.linkedin.com/company/ihghotels&resorts">IHG Hotels & Resorts</a></td>
-<td>Analytics Product Owner</td>
-<td>📍 Atlanta, GA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-ihg-hotels-resorts-4465227732/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://uk.linkedin.com/company/audley-travel">Audley Travel</a></td>
@@ -1655,6 +1613,27 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-audley-travel-4465214663/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/micron-technology">Micron Technology</a></td>
+<td>Principal Product Architect</td>
+<td>📍 Boise, ID</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-micron-technology-4410844183/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/teradar">Teradar</a></td>
+<td>Senior Product Test Engineer</td>
+<td>📍 Boston, MA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-teradar-4461735742/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/prestige-staffing">Prestige Staffing</a></td>
+<td>Product Owner</td>
+<td>📍 Atlanta, GA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-prestige-staffing-4465205957/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/delta-community-credit-union">Delta Community Credit Union</a></td>
 <td>AVP Product Management and Development</td>
 <td>📍 Atlanta, GA</td>
@@ -1662,11 +1641,39 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-delta-community-credit-union-4465793014/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/motorolasolutions">Motorola Solutions</a></td>
-<td>Director of Product Quality</td>
+<td><a href="https://www.linkedin.com/company/analog-devices">Analog Devices</a></td>
+<td>Product Engineer (Product Development) Intern</td>
+<td>📍 Wilmington, CA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-analog-devices-4455875052/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/micron-technology">Micron Technology</a></td>
+<td>SMTS Product Architect</td>
+<td>📍 Boise, ID</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-micron-technology-4410835517/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://uk.linkedin.com/company/ihghotels&resorts">IHG Hotels & Resorts</a></td>
+<td>Analytics Product Owner</td>
+<td>📍 Atlanta, GA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-ihg-hotels-resorts-4465227732/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/intersystems">InterSystems</a></td>
+<td>Senior Technical Product Manager</td>
+<td>📍 Boston, MA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-intersystems-4416691440/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/american-medical-association">American Medical Association</a></td>
+<td>Senior Product Manager (Hybrid)</td>
 <td>📍 Chicago, IL</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-motorola-solutions-4420601326/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-american-medical-association-4466101151/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://de.linkedin.com/company/nordex">Nordex Group</a></td>
@@ -1683,25 +1690,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-museum-of-science-4455336762/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/american-medical-association">American Medical Association</a></td>
-<td>Senior Product Manager (Hybrid)</td>
+<td><a href="https://www.linkedin.com/company/motorolasolutions">Motorola Solutions</a></td>
+<td>Director of Product Quality</td>
 <td>📍 Chicago, IL</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-american-medical-association-4466101151/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/american-medical-association">American Medical Association</a></td>
-<td>Product Manager (Hybrid)</td>
-<td>📍 Chicago, IL</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-american-medical-association-4466105114/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://ie.linkedin.com/company/accenture">Accenture</a></td>
-<td>Jira Service Management (JSM) Specialist</td>
-<td>📍 Boston, MA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-accenture-4465487975/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-motorola-solutions-4420601326/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/logrocket">LogRocket</a></td>
@@ -1711,6 +1704,13 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-logrocket-4329683809/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/american-medical-association">American Medical Association</a></td>
+<td>Product Manager (Hybrid)</td>
+<td>📍 Chicago, IL</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-american-medical-association-4466105114/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/stripe">Stripe</a></td>
 <td>Product Marketing Manager, Bridge/Stablecoins</td>
 <td>📍 Chicago, IL</td>
@@ -1718,18 +1718,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-stripe-4458221672/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/intersystems">InterSystems</a></td>
-<td>Senior Technical Product Manager</td>
+<td><a href="https://ie.linkedin.com/company/accenture">Accenture</a></td>
+<td>Jira Service Management (JSM) Specialist</td>
 <td>📍 Boston, MA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-intersystems-4416691440/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/inspyrsolutions">INSPYR Solutions</a></td>
-<td>Product Manager - Cloud Applications</td>
-<td>📍 Houston, TX</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-inspyr-solutions-4467097422/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-accenture-4465487975/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/caterpillar-inc">Caterpillar Inc.</a></td>
@@ -1739,32 +1732,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-caterpillar-inc-4467046021/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/ontrac-shipping">OnTrac</a></td>
-<td>Warehouse Package Handler - PM (Friday - Monday)</td>
-<td>📍 Las Vegas, NV</td>
+<td><a href="https://www.linkedin.com/company/inspyrsolutions">INSPYR Solutions</a></td>
+<td>Product Manager - Cloud Applications</td>
+<td>📍 Houston, TX</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-ontrac-4464772842/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/ontrac-shipping">OnTrac</a></td>
-<td>Warehouse Package Handler - PM (Tuesday - Saturday)</td>
-<td>📍 Las Vegas, NV</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-ontrac-4464764820/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/eli-lilly-and-company">Eli Lilly and Company</a></td>
-<td>Global Product Steward - Parental Drug Products</td>
-<td>📍 Indianapolis, IN</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-eli-lilly-and-company-4413741159/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/a-hiring-company">A Hiring Company</a></td>
-<td>Product Support Rep</td>
-<td>📍 Indianapolis, IN</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-a-hiring-company-4465774769/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-inspyr-solutions-4467097422/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/activ8-recruitment-&-solutions">Activ8 Recruitment & Solutions</a></td>
@@ -1774,25 +1746,39 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-activ8-recruitment-solutions-4467218187/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/a-hiring-company">A Hiring Company</a></td>
+<td>Product Support Rep</td>
+<td>📍 Indianapolis, IN</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-a-hiring-company-4465774769/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/ontrac-shipping">OnTrac</a></td>
+<td>Warehouse Package Handler - PM (Friday - Monday)</td>
+<td>📍 Las Vegas, NV</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-ontrac-4464772842/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/eli-lilly-and-company">Eli Lilly and Company</a></td>
+<td>Global Product Steward - Parental Drug Products</td>
+<td>📍 Indianapolis, IN</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-eli-lilly-and-company-4413741159/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/ontrac-shipping">OnTrac</a></td>
+<td>Warehouse Package Handler - PM (Tuesday - Saturday)</td>
+<td>📍 Las Vegas, NV</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-ontrac-4464764820/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/inceed">Inceed</a></td>
 <td>Product Design Engineer 2</td>
 <td>📍 Oklahoma City, OK</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-inceed-4465790122/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/state_farm">State Farm</a></td>
-<td>Summer 2027 Intern - Innovation Group - Technology Product Analyst</td>
-<td>📍 Phoenix, AZ</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-state-farm-4465774497/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/deloitte">Deloitte</a></td>
-<td>Senior Consultant - SAP EAM/PM</td>
-<td>📍 Philadelphia, PA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-deloitte-4421348244/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/pei-genesis">PEI-Genesis</a></td>
@@ -1802,32 +1788,25 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-pei-genesis-4465777627/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/deloitte">Deloitte</a></td>
+<td>Senior Consultant - SAP EAM/PM</td>
+<td>📍 Philadelphia, PA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-deloitte-4421348244/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/state_farm">State Farm</a></td>
+<td>Summer 2027 Intern - Innovation Group - Technology Product Analyst</td>
+<td>📍 Phoenix, AZ</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-state-farm-4465774497/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/stripe">Stripe</a></td>
 <td>Product Manager, Link - Local Payment Methods</td>
 <td>📍 San Francisco, CA</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-stripe-4454540404/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/meta">Meta</a></td>
-<td>Data Engineer, Product Analytics</td>
-<td>📍 San Francisco, CA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-meta-4428523505/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/clearlink">Clearlink</a></td>
-<td>Product Manager</td>
-<td>📍 Salt Lake City, UT</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-clearlink-4465215615/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/checkr-com">Checkr, Inc.</a></td>
-<td>Senior Product Manager, Verifications</td>
-<td>📍 San Francisco, CA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-checkr-inc-4385176610/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/thermo-fisher-scientific">Thermo Fisher Scientific</a></td>
@@ -1844,11 +1823,32 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-veridian-tech-solutions-inc-4465781942/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/checkr-com">Checkr, Inc.</a></td>
+<td>Senior Product Manager, Verifications</td>
+<td>📍 San Francisco, CA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-checkr-inc-4385176610/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/clearlink">Clearlink</a></td>
+<td>Product Manager</td>
+<td>📍 Salt Lake City, UT</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-clearlink-4465215615/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/amazon-web-services">Amazon Web Services (AWS)</a></td>
 <td>Senior Product Manager - Technical, External Services, Amazon, Amazon Interactive Video Service (IVS)</td>
 <td>📍 San Francisco, CA</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-amazon-web-services-aws-4458140417/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/meta">Meta</a></td>
+<td>Data Engineer, Product Analytics</td>
+<td>📍 San Francisco, CA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-meta-4428523505/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/tosoh-quartz-inc.">Tosoh Quartz, Inc.</a></td>
@@ -1872,18 +1872,18 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-okta-4465229189/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/brown-brothers-harriman">Brown Brothers Harriman</a></td>
-<td>Sr. Currency Administration Product Development Specialist</td>
-<td>📍 Boston, MA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-brown-brothers-harriman-4438376542/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a href="https://www.linkedin.com/showcase/mercedes-benz-vans-usa/">Mercedes-Benz Vans USA</a></td>
 <td>Product & Technology Communications Junior Associate Consultant (Intern)</td>
 <td>📍 Atlanta, GA</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-mercedes-benz-vans-usa-4464754816/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/brown-brothers-harriman">Brown Brothers Harriman</a></td>
+<td>Sr. Currency Administration Product Development Specialist</td>
+<td>📍 Boston, MA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-brown-brothers-harriman-4438376542/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/northern-trust">Northern Trust</a></td>
@@ -1893,39 +1893,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-northern-trust-4436606111/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/stripe">Stripe</a></td>
-<td>Product Marketing Manager, Market Intelligence</td>
-<td>📍 Chicago, IL</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-stripe-4454540412/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/mercedes-benz-usa">Mercedes-Benz USA</a></td>
-<td>Product & Technology Communications Junior Associate Consultant (Intern)</td>
-<td>📍 Atlanta, GA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-mercedes-benz-usa-4467002014/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a href="https://www.linkedin.com/company/klacorp">KLA</a></td>
 <td>Product Install Engineer - SFS - Extensive 90% + Travel Required</td>
 <td>📍 Boise, ID</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-kla-4445543169/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/analog-devices">Analog Devices</a></td>
-<td>Lead Analyst, New Product Introduction Process</td>
-<td>📍 Wilmington, CA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-analog-devices-4400116521/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/jpmorganchase">JPMorganChase</a></td>
-<td>Payments - Product Solutioning, Receivables - Senior Associate</td>
-<td>📍 Chicago, IL</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-jpmorganchase-4447799268/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/gevernova">GE Vernova</a></td>
@@ -1935,11 +1907,39 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-ge-vernova-4438671923/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/mercedes-benz-usa">Mercedes-Benz USA</a></td>
+<td>Product & Technology Communications Junior Associate Consultant (Intern)</td>
+<td>📍 Atlanta, GA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-mercedes-benz-usa-4467002014/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/jpmorganchase">JPMorganChase</a></td>
+<td>Payments - Product Solutioning, Receivables - Senior Associate</td>
+<td>📍 Chicago, IL</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-jpmorganchase-4447799268/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/stripe">Stripe</a></td>
+<td>Product Marketing Manager, Market Intelligence</td>
+<td>📍 Chicago, IL</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-stripe-4454540412/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/optum">Optum</a></td>
 <td>Senior Product Manager - InterQual Connect and InterQual Medical Review Service -OI Product - Remote</td>
 <td>📍 Boston, MA</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-optum-4466782238/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/analog-devices">Analog Devices</a></td>
+<td>Lead Analyst, New Product Introduction Process</td>
+<td>📍 Wilmington, CA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-analog-devices-4400116521/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/aliya-healthcare-consulting">ALIYA Healthcare Consulting</a></td>
@@ -1977,11 +1977,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-corebridge-financial-4411079746/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/uhs-physician-careers">UHS Physician Careers</a></td>
-<td>Registered Nurse - 7 PM - 7 AM</td>
-<td>📍 Nashville, TN</td>
+<td><a href="https://www.linkedin.com/company/healthverity">HealthVerity</a></td>
+<td>Senior Product Manager</td>
+<td>📍 Philadelphia, PA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-uhs-physician-careers-4465478033/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-healthverity-4466785039/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/jpmorganchase">JPMorganChase</a></td>
@@ -1998,25 +1998,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-starbucks-4411458778/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/healthverity">HealthVerity</a></td>
-<td>Senior Product Manager</td>
-<td>📍 Philadelphia, PA</td>
+<td><a href="https://www.linkedin.com/company/uhs-physician-careers">UHS Physician Careers</a></td>
+<td>Registered Nurse - 7 PM - 7 AM</td>
+<td>📍 Nashville, TN</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-healthverity-4466785039/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/traeger-inc">Traeger, Inc.</a></td>
-<td>Product Compliance Engineer</td>
-<td>📍 Salt Lake City, UT</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-traeger-inc-4466753467/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/stripe">Stripe</a></td>
-<td>Product Manager, Payments</td>
-<td>📍 San Francisco, CA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-stripe-4454553334/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-uhs-physician-careers-4465478033/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/usaa">USAA</a></td>
@@ -2026,11 +2012,25 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-usaa-4464718932/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/traeger-inc">Traeger, Inc.</a></td>
+<td>Product Compliance Engineer</td>
+<td>📍 Salt Lake City, UT</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-traeger-inc-4466753467/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/usaa">USAA</a></td>
 <td>Development Product Owner Senior - Member Advocacy Product</td>
 <td>📍 Phoenix, AZ</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-usaa-4464728840/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/stripe">Stripe</a></td>
+<td>Product Manager, Payments</td>
+<td>📍 San Francisco, CA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-stripe-4454553334/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/salesforce">Salesforce</a></td>
@@ -2047,11 +2047,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-cisco-4439367301/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/navan">Navan</a></td>
-<td>Product Marketing Manager</td>
-<td>📍 San Francisco, CA</td>
+<td><a href="https://www.linkedin.com/company/edward-jones">Edward Jones</a></td>
+<td>Lead AI Product Manager</td>
+<td>📍 Washington, DC</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-navan-4438843090/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-edward-jones-4465456256/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/rippling">Rippling</a></td>
@@ -2061,25 +2061,18 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-rippling-4403135507/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/navan">Navan</a></td>
+<td>Product Marketing Manager</td>
+<td>📍 San Francisco, CA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-navan-4438843090/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/stripe">Stripe</a></td>
 <td>Product Marketing Manager, Startup Segment</td>
 <td>📍 San Francisco, CA</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-stripe-4454535420/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/edward-jones">Edward Jones</a></td>
-<td>Lead AI Product Manager</td>
-<td>📍 Washington, DC</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-edward-jones-4465456256/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/global-payments">Global Payments Inc.</a></td>
-<td>Product Analyst I</td>
-<td>📍 Atlanta, GA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-global-payments-inc-4447075312/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/intuit">Intuit</a></td>
@@ -2089,11 +2082,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-intuit-4466395689/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/acuity">Acuity</a></td>
-<td>BUILD Leadership Program - Business Analyst / Tech Product Management Specialist</td>
+<td><a href="https://www.linkedin.com/company/global-payments">Global Payments Inc.</a></td>
+<td>Product Analyst I</td>
 <td>📍 Atlanta, GA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-acuity-4465184714/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-global-payments-inc-4447075312/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://uk.linkedin.com/company/ihghotels&resorts">IHG Hotels & Resorts</a></td>
@@ -2103,25 +2096,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-ihg-hotels-resorts-4464276379/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/fanduel">FanDuel</a></td>
-<td>Lead Product Manager</td>
+<td><a href="https://www.linkedin.com/company/acuity">Acuity</a></td>
+<td>BUILD Leadership Program - Business Analyst / Tech Product Management Specialist</td>
 <td>📍 Atlanta, GA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-fanduel-4454668881/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/the-home-depot">The Home Depot</a></td>
-<td>Sr. Product Manager - Checkout</td>
-<td>📍 Atlanta, GA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-the-home-depot-4464560776/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/veeva-systems">Veeva Systems</a></td>
-<td>Senior Product Manager - Falcon Writer</td>
-<td>📍 Boston, MA</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-veeva-systems-4465400423/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-acuity-4465184714/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/micron-technology">Micron Technology</a></td>
@@ -2131,11 +2110,32 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-micron-technology-4465412540/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/cargurus">CarGurus</a></td>
-<td>Senior Product Data Analyst, Dealer</td>
+<td><a href="https://www.linkedin.com/company/veeva-systems">Veeva Systems</a></td>
+<td>Senior Product Manager - Falcon Writer</td>
 <td>📍 Boston, MA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-cargurus-4445561324/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-veeva-systems-4465400423/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/the-home-depot">The Home Depot</a></td>
+<td>Sr. Product Manager - Checkout</td>
+<td>📍 Atlanta, GA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-the-home-depot-4464560776/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/fanduel">FanDuel</a></td>
+<td>Lead Product Manager</td>
+<td>📍 Atlanta, GA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-fanduel-4454668881/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/analog-devices">Analog Devices</a></td>
+<td>Staff Product Manager, Physical AI</td>
+<td>📍 Wilmington, CA</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-analog-devices-4464250523/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/john-hancock">John Hancock</a></td>
@@ -2145,11 +2145,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-john-hancock-4465190851/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/analog-devices">Analog Devices</a></td>
-<td>Staff Product Manager, Physical AI</td>
-<td>📍 Wilmington, CA</td>
+<td><a href="https://www.linkedin.com/company/cargurus">CarGurus</a></td>
+<td>Senior Product Data Analyst, Dealer</td>
+<td>📍 Boston, MA</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-analog-devices-4464250523/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-cargurus-4445561324/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/jpmorganchase">JPMorganChase</a></td>
@@ -2187,18 +2187,18 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-the-friedkin-group-4466431645/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/rheem-manufacturing">Rheem Manufacturing Company</a></td>
-<td>Digital Product Manager</td>
-<td>📍 Indianapolis, IN</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-rheem-manufacturing-company-4466430458/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a href="https://www.linkedin.com/company/republic-services-inc">Republic Services</a></td>
 <td>Heavy Equipment PM Technician</td>
 <td>📍 Houston, TX</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-republic-services-4447196714/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/rheem-manufacturing">Rheem Manufacturing Company</a></td>
+<td>Digital Product Manager</td>
+<td>📍 Indianapolis, IN</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-rheem-manufacturing-company-4466430458/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/melaleuca-the-wellness-company">Melaleuca: The Wellness Company</a></td>
@@ -2208,18 +2208,18 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-melaleuca-the-wellness-company-4465173504/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/horizontal-talent">Horizontal Talent</a></td>
-<td>Product Analyst (End to End Platform)</td>
-<td>📍 Minneapolis, MN</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-horizontal-talent-4454660869/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a href="https://www.linkedin.com/company/us-bank">U.S. Bank</a></td>
 <td>Senior Product Manager - Workday Total Rewards</td>
 <td>📍 Minneapolis, MN</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-us-bank-4466435580/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/horizontal-talent">Horizontal Talent</a></td>
+<td>Product Analyst (End to End Platform)</td>
+<td>📍 Minneapolis, MN</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-horizontal-talent-4454660869/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/amazon">Amazon</a></td>
@@ -2243,25 +2243,11 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-target-4454536748/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/orionwealthtech">Orion</a></td>
-<td>Staff Product Manager</td>
-<td>📍 Omaha, NE</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-orion-4456276868/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
 <td><a href="https://www.linkedin.com/company/jpmorganchase">JPMorganChase</a></td>
 <td>Compensation Associate (Tech, Product & Data)</td>
 <td>📍 Wilmington, CA</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-jpmorganchase-4466702699/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/national-indemnity-company">National Indemnity Company</a></td>
-<td>Product Owner - ServiceNow</td>
-<td>📍 Omaha, NE</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-national-indemnity-company-4380123160/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/comcast">Comcast</a></td>
@@ -2271,18 +2257,25 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-comcast-4465192344/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
+<td><a href="https://www.linkedin.com/company/national-indemnity-company">National Indemnity Company</a></td>
+<td>Product Owner - ServiceNow</td>
+<td>📍 Omaha, NE</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-national-indemnity-company-4380123160/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/orionwealthtech">Orion</a></td>
+<td>Staff Product Manager</td>
+<td>📍 Omaha, NE</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-orion-4456276868/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
 <td><a href="https://www.linkedin.com/company/american-express">American Express</a></td>
 <td>Sr Manager-Digital Product Management- EDAI</td>
 <td>📍 Phoenix, AZ</td>
 <td>1w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-american-express-4465154701/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
-</tr>
-<tr>
-<td><a href="https://www.linkedin.com/company/rivian">Rivian</a></td>
-<td>Product Guide III (Part-time) - Portland Area (For Future Consideration)</td>
-<td>📍 Portland, OR</td>
-<td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-rivian-4446956944/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/ebay">eBay</a></td>
@@ -2292,11 +2285,18 @@ color : white;
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-ebay-4453808149/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
-<td><a href="https://www.linkedin.com/company/republic-services-inc">Republic Services</a></td>
-<td>Senior Manager Product Management</td>
-<td>📍 Phoenix, AZ</td>
+<td><a href="https://www.linkedin.com/company/daimlertrucknorthamerica">Daimler Truck North America</a></td>
+<td>Product Integrity Engineer II</td>
+<td>📍 Portland, OR</td>
 <td>1w ago</td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-republic-services-4447434482/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-daimler-truck-north-america-4464267205/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
+</tr>
+<tr>
+<td><a href="https://www.linkedin.com/company/rivian">Rivian</a></td>
+<td>Product Guide III (Part-time) - Portland Area (For Future Consideration)</td>
+<td>📍 Portland, OR</td>
+<td>1w ago</td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/product-manager-jobs-in-wilmington_ca-at-rivian-4446956944/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr><td colspan="5" align="center"><i>... and 900 more positions</i></td></tr>
 </tbody>
@@ -2307,7 +2307,7 @@ color : white;
 ## 💻 Full Stack Developer
 <a name="-full-stack-developer"></a>
 
-> 💼 **624** positions available
+> 💼 **705** positions available
 
 <table>
 <thead>
@@ -2751,224 +2751,224 @@ color : white;
 <td><a href="https://www.linkedin.com/company/bcforward">BCforward</a></td>
 <td>Full Stack Developer</td>
 <td>📍 Columbus, OH</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-bcforward-4460118337/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/icemarkets">ICE</a></td>
 <td>Principal Engineer, Full Stack Development</td>
 <td>📍 Atlanta, GA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-ice-4455928245/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/tmvus">TMV Global Inc</a></td>
 <td>Java Full Stack Developer</td>
 <td>📍 Atlanta, GA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-tmv-global-inc-4463883430/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/vista-higher-learning">Vista Higher Learning</a></td>
 <td>Sr Full stack Software Engineer</td>
 <td>📍 Boston, MA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-vista-higher-learning-4384550743/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/hertz">Hertz</a></td>
 <td>Full Stack Developer- TNC</td>
 <td>📍 Atlanta, GA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-hertz-4464987091/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/draper">Draper</a></td>
 <td>Mid-Level Full Stack Web Developer (MTS-2)</td>
 <td>📍 Boston, MA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-draper-4463581211/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/mckesson">McKesson</a></td>
 <td>Senior AI Full stack Software Engineer</td>
 <td>📍 Atlanta, GA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-mckesson-4446335333/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/immuta">Immuta</a></td>
 <td>Full-Stack Engineering Internship - Summer 2027</td>
 <td>📍 Columbus, OH</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-immuta-4465324623/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://uk.linkedin.com/company/fitchgroup">Fitch Group, Inc.</a></td>
 <td>Software Engineer, Full-Stack Applications, Associate Director (Python & React)</td>
 <td>📍 Chicago, IL</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-fitch-group-inc-4463887298/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/capital-one">Capital One</a></td>
 <td>Lead Software Engineer,  Full Stack</td>
 <td>📍 Chicago, IL</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-capital-one-4464995427/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/captechconsulting">CapTech</a></td>
 <td>Full-Stack Engineer</td>
 <td>📍 Columbus, OH</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-captech-4455779390/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/vincueauto">VINCUE</a></td>
 <td>Full Stack Engineer</td>
 <td>📍 Kansas City, MO</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-vincue-4458108826/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/salesforce">Salesforce</a></td>
 <td>Senior/Lead Full Stack Software Engineer</td>
 <td>📍 San Francisco, CA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-salesforce-4465318099/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://uk.linkedin.com/company/oscar">Oscar</a></td>
 <td>Fullstack Software Engineer</td>
 <td>📍 San Francisco, CA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-oscar-4463077611/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/stripe">Stripe</a></td>
 <td>Full Stack Engineer, Link</td>
 <td>📍 San Francisco, CA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-stripe-4456135062/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/atlas-technologies-inc._2">Atlas Tech</a></td>
 <td>Senior Full Stack Developer - Independent Contractor (1099)</td>
 <td>📍 Washington, DC</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-atlas-tech-4463060834/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/peraton">Peraton</a></td>
 <td>Sr-level SQL Database / Systems Administrator / Active Top Secret, SCI & Poly eligible</td>
 <td>📍 Washington, DC</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-peraton-4463882962/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/lendbuzz">Lendbuzz</a></td>
 <td>Software Engineer (Frontend-Focused Full Stack)</td>
 <td>📍 Boston, MA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-lendbuzz-4464900053/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/grindr">Grindr</a></td>
 <td>Senior Software Engineer, Full Stack</td>
 <td>📍 Chicago, IL</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-grindr-4464684437/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://nl.linkedin.com/company/wolters-kluwer">Wolters Kluwer</a></td>
 <td>Principal Full Stack Engineer, AI Platform & Agents (US/Canada Hybrid/Remote)</td>
 <td>📍 Chicago, IL</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-wolters-kluwer-4316652251/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/new-york-technology-partners">New York Technology Partners</a></td>
 <td>Full Stack Production Software Engineer</td>
 <td>📍 Chicago, IL</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-new-york-technology-partners-4461248771/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/halborn">Halborn</a></td>
 <td>Full Stack Software Developer</td>
 <td>📍 Miami, FL</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-halborn-4464675254/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/ntt-data-americas">NTT DATA North America</a></td>
 <td>JAVA Full Stack Engineer</td>
 <td>📍 Atlanta, GA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-ntt-data-north-america-4461181101/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/soltech-inc">SOLTECH</a></td>
 <td>Full Stack React Native/.NET Engineer</td>
 <td>📍 Atlanta, GA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-soltech-4462521963/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://nl.linkedin.com/company/wolters-kluwer">Wolters Kluwer</a></td>
 <td>Senior Full Stack Engineer, AI Platform & Agents (US/Canada Hybrid/Remote)</td>
 <td>📍 Chicago, IL</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-wolters-kluwer-4316637878/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/tiny-spec-inc">Slack</a></td>
 <td>Staff Software Engineer, Full Stack - Slack Enterprise Trust</td>
 <td>📍 San Francisco, CA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-slack-4464697775/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/revelsoftware">Revel</a></td>
 <td>Internship: Full Stack Software Engineer</td>
 <td>📍 San Francisco, CA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-revel-4464668794/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/whatnot-inc">Whatnot</a></td>
 <td>Fullstack Engineer, Seller Insights</td>
 <td>📍 San Francisco, CA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-whatnot-4463538663/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/ovative-group">Ovative Group</a></td>
 <td>Full Stack Engineer</td>
 <td>📍 Minneapolis, MN</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-ovative-group-4452531664/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/openai">OpenAI</a></td>
 <td>Full Stack Software Engineer, Education</td>
 <td>📍 San Francisco, CA</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-openai-4417162340/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/daimlertrucknorthamerica">Daimler Truck North America</a></td>
 <td>Lead Architect / Senior Full Stack Developer - CHEC</td>
 <td>📍 Portland, OR</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-daimler-truck-north-america-4462262443/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
 <td><a href="https://www.linkedin.com/company/edgewater-federal-solutions-inc-">Edgewater Federal Solutions, Inc.</a></td>
 <td>Full Stack Object Oriented Programmer</td>
 <td>📍 Albuquerque, NM</td>
-<td>1w ago</td>
+<td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-edgewater-federal-solutions-inc-4455342563/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
 <tr>
@@ -3020,7 +3020,7 @@ color : white;
 <td>2w ago</td>
 <td align="center"><a target="_blank" rel="noopener noreferrer" href="https://www.mployee.me/us/jobs/view/full-stack-developer-jobs-in-wilmington_ca-at-oxy-4414680194/us1"><img src="https://img.shields.io/badge/View-Job-blue?style=flat-square&logo=briefcase" alt="View Job"></a></td>
 </tr>
-<tr><td colspan="5" align="center"><i>... and 524 more positions</i></td></tr>
+<tr><td colspan="5" align="center"><i>... and 605 more positions</i></td></tr>
 </tbody>
 </table>
 
@@ -3052,12 +3052,12 @@ If these were not the jobs you were looking for, try searching based on the prof
 
 | Metric | Count |
 |:-------|------:|
-| 📊 Total Listings | **3186** |
+| 📊 Total Listings | **3321** |
 | 🌍 Remote Jobs | **1** |
 | 📊 Data Scientist | **1000** |
-| 💼 Business Analyst | **562** |
+| 💼 Business Analyst | **616** |
 | 🚀 Product Manager | **1000** |
-| 💻 Full Stack Developer | **624** |
+| 💻 Full Stack Developer | **705** |
 
 </div>
 
@@ -3126,7 +3126,7 @@ Found a broken link or want to add a job posting? Feel free to:
 
 ### 📅 Last Updated
 
-**Monday, September 21, 2026 at 12:11 AM EDT**
+**Wednesday, September 23, 2026 at 12:04 AM EDT**
 
 ---
 
